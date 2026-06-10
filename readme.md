@@ -46,7 +46,7 @@ gcc main.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 -o snake_game
 
 SnakeGame/
 ├── .vscode/
-│   └── tasks.json      # Your build configurations
-├── snake_game.c              # Your game source code
-├── raygui.h            # The UI header file you downloaded
-└── README.md           # The readme file you just created
+│   └── tasks.json    
+├── snake_game.c             
+├── raygui.h           
+└── README.md           
